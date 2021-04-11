@@ -1,11 +1,11 @@
 questions = [
     {
-        "question": "Should we Defund the Police?",
+        "question": "The Police should be defunded.",
         "effect": {
-            "Republicans": -10,
-            "Working Families Party": 10,
-            "New Deal Party": 5,
-            "Democrats": -5
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
         }
     },
     {
