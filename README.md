@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# ETSenateParties.github.io
+The ET Senate Party quiz measures your policy opinions and places you into a party or independent!
